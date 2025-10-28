@@ -1,5 +1,7 @@
 # Bayesian Models – Final Project
 
+![Bayesian Models Illustration](https://github.com/MichaelMutter/Bayesian-Models-Final-Project/blob/main/Bayesians%20Models%20Project.png)
+
 This repository includes three Jupyter notebooks demonstrating practical Bayesian modeling techniques applied to different domains.
 
 ---
@@ -25,4 +27,4 @@ Highlights proficiency in **hierarchical inference** and model comparison.
 
 ---
 
-Together, these notebooks demonstrate hands-on experience in **Bayesian reasoning, probabilistic programming (PyMC), and data-driven decision-making**.
+Together, these notebooks demonstrate hands-on experience in **Bayesian rea**
